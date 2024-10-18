@@ -39,4 +39,9 @@ public class TestLogger implements JavaService2 {
         1- https://logging.apache.org/log4j/2.x/javadoc/log4j-api/org/apache/logging/log4j/Logger.html
         2- https://docs.kony.com/konylibrary/integration/MiddlewareAPI/com/konylabs/middleware/dataobject/Param.html#setValue-java.lang.String-
     */
+
+    //For remote debugging:
+    /*
+    1- Goto top menu Run -> Edit configuration -> Add New Configuration -> Remote JVM Debug -> Set URL and Port of host -> Apply
+    */
 }
